@@ -52,7 +52,7 @@ pkg upgrade -y && pkg update -y && pkg install git -y && pkg install nodejs-lts 
 4 - Quando finalizar tudo, digite o código abaixo:
 
 ```sh
-cd /sdcard && git clone https://github.com/guiireal/lite-bot.git && cd ./lite-bot
+cd /lite && git clone https://github.com/Piumaes/Lite.git && cd ./lite
 ```
 
 5 - Configure o arquivo `config.js`. O bot fica dentro da pasta `/sdcard/lite-bot`.
